@@ -1,6 +1,4 @@
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="left" style="width: 100%" />  
-### <div align="center">I am Mathias TAVERNIER-ROUX</br>
-A web developer who wants to master the entirety of digital professions</div>  <br/>  
+### <div align="center">I am Mathias TAVERNIER-ROUX</br>A web developer who wants to master the entirety of digital professions</div>  <br/>  
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=mathias-tavernier-roux&&style=flat-square" align="center" />
