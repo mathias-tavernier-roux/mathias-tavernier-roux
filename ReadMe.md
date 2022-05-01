@@ -92,7 +92,7 @@
 </a> 
 
 <a href="htttps://discord.gg/mathias-tavernier-roux#9131" target="_blank">
-<img src=https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/Discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
   
 
