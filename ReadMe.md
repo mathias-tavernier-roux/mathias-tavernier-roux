@@ -1,4 +1,4 @@
-### <div align="center">Hi I am Mathias TAVERNIER-ROUX</br>A web developer who wants to master the entirety of digital professions</div>  <br/>  
+### <div align="center">Hi, I am Mathias TAVERNIER-ROUX</br>A web developer who wants to master the entirety of digital professions</div>  <br/>  
 ## My Goals  
 ### 💻 - Acquire the skills necessary to  create software  
 ### 🌐 - Acquire the skills necessary to create and configure computer networks and their components  
