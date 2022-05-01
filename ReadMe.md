@@ -1,11 +1,5 @@
 ### <div align="center">I am Mathias TAVERNIER-ROUX</br>A web developer who wants to master the entirety of digital professions</div>  <br/>  
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=mathias-tavernier-roux&&style=flat-square" align="center" />
-</div>  
-<br/>  
-
-
 ## My Goals  
 
 
